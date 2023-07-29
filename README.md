@@ -15,7 +15,7 @@
 
 #
 
-## Principais Projetos
+## Conecte-se Comigo
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/elianecoelho)
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/elianecoelho/)
