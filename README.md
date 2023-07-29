@@ -2,7 +2,7 @@
 <div>
     <h1 align="center">Eliane da Silva Coelho </h1>
     <h2>Bom ter você por aqui! seja Bem-Vindo(a)!</h2>
-    <p> Sou formada em análise e desenvolvimento de sistemas, pós graduada em segurança de redes de computadores, segurança digital para educação e, se tudo ocorrer como o previsto, em agosto inicio a pós graduação em Java pela UTFPR.
+    <p> Sou formada em análise e desenvolvimento de sistemas, pós-graduada em segurança de redes de computadores, segurança digital para educação e, se tudo ocorrer como o previsto, em agosto inicio a pós-graduação em Java pela UTFPR.
     </p>
     <p>
     Meu principal objetivo é inserção no mercado de Tecnologia na área de programação. 
