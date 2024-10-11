@@ -9,7 +9,7 @@
     </p>
     <p>
     Tenho uma família incrível, amo estar por dentro dos assuntos da atualidade, gosto de ler, 
-    e ficar sozinha é um robby. SOu de Almirante Tamandaré/PR
+    jogar vôley e ficar sozinha. Sou de Almirante Tamandaré/PR
     </p>
 </div>
 
