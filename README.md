@@ -1,17 +1,35 @@
-
 <div>
     <h1 align="center">Eliane da Silva Coelho </h1>
-    <h2>Bom ter você por aqui! seja Bem-Vindo(a)!</h2>
-    <p> Sou formada em análise e desenvolvimento de sistemas, pós-graduada em segurança de redes de computadores, segurança digital para educação e, se tudo ocorrer como o previsto, em agosto inicio a pós-graduação em Java pela UTFPR.
-    </p>
+    <h2>Bom ter você por aqui! Seja bem-vindo(a)!</h2>
+
     <p>
-    Meu principal objetivo é inserção no mercado de Tecnologia na área de programação. 
+        Sou formada em <b>Análise e Desenvolvimento de Sistemas</b>, 
+        pós-graduada em <b>Segurança de Redes de Computadores</b> e 
+        em <b>Tecnologias Digitais para Educação</b>.
     </p>
+
     <p>
-    Tenho uma família incrível, amo estar por dentro dos assuntos da atualidade, gosto de ler, 
-    jogar vôley e ficar sozinha. Sou de Almirante Tamandaré/PR
+        Atualmente participo de programas estratégicos de capacitação em tecnologia:
+        <ul>
+            <li><b>Residência em Cibersegurança – Hackers do Bem</b></li>
+            <li><b>Capacitação Básica em Segurança Cibernética – Instituto Hardware BR</b>, 
+            alinhada ao Programa Nacional de Atividades Espaciais (PNAE 2022–2031)</li>
+            <li><b>Santander Code Girls 2025</b> – Computação em Nuvem</li>
+        </ul>
+    </p>
+
+    <p>
+        Meu principal objetivo é a inserção no mercado de <b>Tecnologia da Informação</b>, 
+        com ênfase em <b>programação</b> e <b>cibersegurança</b>.
+    </p>
+
+    <p>
+        Tenho uma família incrível, amo estar por dentro dos assuntos da atualidade, 
+        gosto de ler, jogar vôlei e também de momentos de reflexão e solitude.
+        Sou de <b>Almirante Tamandaré/PR</b>.
     </p>
 </div>
+
 
 #
 
