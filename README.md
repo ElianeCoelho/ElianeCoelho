@@ -1,35 +1,28 @@
-<div>
-    <h1 align="center">Eliane da Silva Coelho </h1>
-    <h2>Bom ter você por aqui! Seja bem-vindo(a)!</h2>
+## 👩‍💻 Sobre mim
 
-    <p>
-        Sou formada em <b>Análise e Desenvolvimento de Sistemas</b>, 
-        pós-graduada em <b>Segurança de Redes de Computadores</b> e 
-        em <b>Tecnologias Digitais para Educação</b>.
-    </p>
+Sou formada em **Análise e Desenvolvimento de Sistemas**,  
+pós-graduada em **Segurança de Redes de Computadores** e em  
+**Tecnologias Digitais para Educação**.  
 
-    <p>
-        Atualmente participo de programas estratégicos de capacitação em tecnologia:
-        <ul>
-            <li><b>Residência em Cibersegurança – Hackers do Bem</b></li>
-            <li><b>Capacitação Básica em Segurança Cibernética – Instituto Hardware BR</b>, 
-            alinhada ao Programa Nacional de Atividades Espaciais (PNAE 2022–2031)</li>
-            <li><b>Santander Code Girls 2025</b> – Computação em Nuvem</li>
-        </ul>
-    </p>
+---
 
-    <p>
-        Meu principal objetivo é a inserção no mercado de <b>Tecnologia da Informação</b>, 
-        com ênfase em <b>programação</b> e <b>cibersegurança</b>.
-    </p>
+### 🚀 Atualmente participo de programas estratégicos:
+- **Residência em Cibersegurança – Hackers do Bem**  
+- **Capacitação Básica em Segurança Cibernética – Instituto Hardware BR**,  
+  alinhada ao Programa Nacional de Atividades Espaciais (PNAE 2022–2031)  
+- **Santander Code Girls 2025** – Computação em Nuvem.  
 
-    <p>
-        Tenho uma família incrível, amo estar por dentro dos assuntos da atualidade, 
-        gosto de ler, jogar vôlei e também de momentos de reflexão e solitude.
-        Sou de <b>Almirante Tamandaré/PR</b>.
-    </p>
-</div>
+---
 
+🎯 **Objetivo:** Inserção no mercado de **Tecnologia da Informação**,  
+com ênfase em **programação** e **cibersegurança**.  
+
+---
+
+### 🌱 Um pouco sobre mim
+Tenho uma família incrível, amo estar por dentro dos assuntos da atualidade,  
+gosto de ler, jogar vôlei e também de momentos de reflexão e solitude.  
+📍 Sou de **Almirante Tamandaré/PR**.  
 
 #
 
