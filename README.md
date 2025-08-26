@@ -43,7 +43,7 @@ gosto de ler, jogar vôlei e também de momentos de reflexão e solitude.
 </div>
 
 #
-## Linguagens estudadas
+## Linguagens estudadas no GitHub
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) 
@@ -55,11 +55,6 @@ gosto de ler, jogar vôlei e também de momentos de reflexão e solitude.
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=264CE4)
 
 ---
-
-## Linguagens mais usadas no GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianecoelho&layout=compact&theme=dracula)
-
 
 #
 
