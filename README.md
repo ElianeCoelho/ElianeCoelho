@@ -58,7 +58,7 @@ gosto de ler, jogar vôlei e também de momentos de reflexão e solitude.
 
 ## Linguagens mais usadas no GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianecoelho&layout=compact&theme=dracula)
 
 
 #
