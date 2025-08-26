@@ -45,7 +45,21 @@ gosto de ler, jogar vôlei e também de momentos de reflexão e solitude.
 #
 ## Linguagens estudadas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)  ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) 
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)  
+![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=264CE4)
+
+---
+
+## Linguagens mais usadas no GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+
 
 #
 
